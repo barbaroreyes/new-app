@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "newapp",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/Users/barbaroreyes/school/new-app/amplify/backend/api/newapp/schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}
